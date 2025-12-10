@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Data files
+*.csv
+*.tsv
+*.parquet
+*.xlsx
+*.zip
+*.gz
+/data/
+
+# R
+*.Rhistory
+*.Rproj.user/
+.Rhistory
+.RData
+
+# VSCode
+.vscode/
+
+# macOS system files
+.DS_Store
