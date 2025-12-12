@@ -91,20 +91,6 @@ Make two heatmaps:
 
 ---
 
-## Folder Structure
-
-Your repository should look like:
-
-```
-assignments/
-  week2-viz/
-    data/
-    week2_notebook.ipynb
-    README.md
-```
-
----
-
 ## Deliverables
 - A completed notebook (you show your reasoning, not just answers)
 - At least two visualizations (scatterplot, heatmap, bar chart)
