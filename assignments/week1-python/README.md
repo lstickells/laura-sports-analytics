@@ -14,5 +14,5 @@
 
 ## Files
 
-- `statcast_week1.ipynb` – main analysis notebook
-- `data/` – local folder (not synced to GitHub) where raw CSV lives
+- `Week1_Statcast_Assignment.ipynb` – main analysis notebook
+- nimmo_data` – local raw CSV file of Brandon Nimmo's 2025 plate appearances
